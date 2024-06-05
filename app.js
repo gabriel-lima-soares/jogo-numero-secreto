@@ -1,6 +1,6 @@
 //Inserido a leitura diretamente pelo JS
 let listaDeNumerosSorteados = [];
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let numeroDeTentativas = 1;
 
